@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goyalshubhangi/trello-react/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/goyalshubhangi/trello-react/static/js/main.ff2b927a.chunk.js",
+    "main.js.map": "/goyalshubhangi/trello-react/static/js/main.ff2b927a.chunk.js.map",
+    "runtime-main.js": "/goyalshubhangi/trello-react/static/js/runtime-main.531afb75.js",
+    "runtime-main.js.map": "/goyalshubhangi/trello-react/static/js/runtime-main.531afb75.js.map",
+    "static/js/2.777fe21e.chunk.js": "/goyalshubhangi/trello-react/static/js/2.777fe21e.chunk.js",
+    "static/js/2.777fe21e.chunk.js.map": "/goyalshubhangi/trello-react/static/js/2.777fe21e.chunk.js.map",
+    "static/js/3.4726566e.chunk.js": "/goyalshubhangi/trello-react/static/js/3.4726566e.chunk.js",
+    "static/js/3.4726566e.chunk.js.map": "/goyalshubhangi/trello-react/static/js/3.4726566e.chunk.js.map",
+    "index.html": "/goyalshubhangi/trello-react/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/goyalshubhangi/trello-react/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.777fe21e.chunk.js.LICENSE.txt": "/goyalshubhangi/trello-react/static/js/2.777fe21e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.531afb75.js",
+    "static/js/2.777fe21e.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ff2b927a.chunk.js"
+  ]
+}
